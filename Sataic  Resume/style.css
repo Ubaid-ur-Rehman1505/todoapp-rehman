@@ -1,0 +1,29 @@
+span {
+    font-size: 17px;
+}
+h1 {
+    font-size: 48px;
+    text-align: center;
+}
+
+.red {
+    width: 20%;
+    height: auto;
+    display: inline-block;
+    padding: 20px;
+    margin: 10px;
+    background-color: aqua;
+}
+.yellow {
+    display: inline-block;
+    width: 53%;
+}
+
+.img {
+ width: 85%;
+ height: 280px;
+}
+.bold {
+    font-weight: 600;
+    height: 30px;
+}
